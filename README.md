@@ -1,3 +1,6 @@
+# React-JavaScript(Travel-Jounal)
+This is a React library used web page created by the use of JavaScript, Html and CSS. 
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).

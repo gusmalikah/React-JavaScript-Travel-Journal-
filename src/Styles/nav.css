@@ -1,0 +1,27 @@
+.nav {
+    width: 100%;
+    position: block;
+    height: 55px;
+    left: 0px;
+    top: 0px;
+    background: #F55A5A;
+}
+.nav-title {
+    text-align: center;
+    color: white;
+    margin-top: -18px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 14.4608px;
+}
+.nav-img {
+    width: 24px;
+    height: 24px;   
+    display:block; 
+    margin-left: auto;
+    margin-right: auto;
+    padding-right: 150px;
+    padding-top: 15px;
+}
+
